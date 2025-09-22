@@ -26,3 +26,8 @@ resource "azurerm_resource_group" "practice22" {
   name     = "practice22"
   location = "West Europe"
 }
+
+resource "azurerm_resource_group" "practice23" {
+  name     = "practice23"
+  location = "West Europe"
+}
